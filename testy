@@ -7,7 +7,7 @@
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
       "test1.0": {
-        "expire": "2025/10/01",
+        "expire": "2024/10/01",
         "warning": 14,
         "ontime": true,
         "run": true 
