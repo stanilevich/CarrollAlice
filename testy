@@ -10,7 +10,7 @@
         "expire": "2022/10/01",
         "warning": 14,
         "ontime": false,
-        "run": true
+        "run": false
       }
     }
   }
