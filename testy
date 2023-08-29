@@ -5,7 +5,7 @@
       "pcname": "TECH-1",
       "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
-      "execute": false,
+      "execute": true,
       "test1.0": {
         "expire": "2024/10/01",
         "warning": 14,
