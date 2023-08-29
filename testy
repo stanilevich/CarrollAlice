@@ -1,44 +1,13 @@
 ﻿{
   "licenses": {
-    "6297930ee2ff318da952328d783dc426": {
-      "user": "МК",
-      "pcname": "TECH-4",
-      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
-      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
-      "execute": false,
-      "sohranit1.0": {
-        "expire": "2021/10/01",
-        "warning": 14,
-        "ontime": false,
-        "run": true
-      },
-      "sohranitkak1.0": {
-        "expire": "2021/10/01",
-        "warning": 14,
-        "ontime": false,
-        "run": true
-      },
-      "eksportizobrazhenia1.0": {
-        "expire": "2021/10/01",
-        "warning": 14,
-        "ontime": false,
-        "run": true
-      },
-      "redaktparkrepeza1.0": {
-        "expire": "2021/10/14",
-        "warning": 14,
-        "ontime": true,
-        "run": true
-      }
-    },
-    "f75f34e1320d950f580625daa743804c": {
+    "27827d222e131fa210efa65ae582ff38": {
       "user": "LOFT",
       "pcname": "TECH-1",
       "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
-      "sohranit1.0": {
-        "expire": "2021/10/01",
+      "test1.0": {
+        "expire": "2023/10/01",
         "warning": 14,
         "ontime": false,
         "run": true
