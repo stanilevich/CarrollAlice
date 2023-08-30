@@ -12,6 +12,19 @@
         "ontime": true,
         "run": true 
       }
+    },
+    "e28c491290aa95da2eefa637a5dbb1e2": {
+      "user": "al_ovseanicov",
+      "pcname": "DESKTOP-VK3MIDQ",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "v10.22.27hole": {
+        "expire": "2023/09/10",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
     }
   }
 }
