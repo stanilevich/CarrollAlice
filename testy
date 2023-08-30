@@ -1,11 +1,11 @@
 ﻿{
   "licenses": {
     "27827d222e131fa210efa65ae582ff38": {
-      "user": "LOFT",
+      "user": "Carroll Alice",
       "pcname": "TECH-1",
       "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "WScript.Echo(\"Вышло обновление v11.23.28\")",
-      "execute": false,
+      "code": "oWshShell.Popup(\"Вышло обновление: \", 5, \"Обновление\", 0 + 64 + 4096)",
+      "execute": true,
       "v10.22.27hole": {
         "expire": "2023/09/15",
         "warning": 14,
@@ -17,7 +17,7 @@
       "user": "al_ovseanicov (Домашний комп)",
       "pcname": "DESKTOP-VK3MIDQ",
       "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "WScript.Echo(\"Вышло обновление v11.23.28\")",
+      "code": "oWshShell.Popup(\"Вышло обновление: \", 5, \"Обновление\", 0 + 64 + 4096)",
       "execute": false,
       "v10.22.27hole": {
         "expire": "2024/01/01",
