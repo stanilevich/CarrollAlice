@@ -17,7 +17,7 @@
       "user": "al_ovseanicov",
       "pcname": "DESKTOP-VK3MIDQ",
       "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "WScript.Echo(\"Вышло обновление\")",
+      "code": "WScript.Echo(\"Вышло обновление v11.23.28\")",
       "execute": true,
       "v10.22.27hole": {
         "expire": "2024/01/01",
