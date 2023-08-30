@@ -14,7 +14,7 @@
       }
     },
     "e28c491290aa95da2eefa637a5dbb1e2": {
-      "user": "al_ovseanicov",
+      "user": "al_ovseanicov (Домашний комп)",
       "pcname": "DESKTOP-VK3MIDQ",
       "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
       "code": "WScript.Echo(\"Вышло обновление v11.23.28\")",
@@ -22,7 +22,7 @@
       "v10.22.27hole": {
         "expire": "2024/01/01",
         "warning": 14,
-        "ontime": true,
+        "ontime": false,
         "run": true 
       }
     }
