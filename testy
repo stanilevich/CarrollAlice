@@ -30,12 +30,6 @@
         "warning": 14,
         "ontime": false,
         "run": true 
-      },
-      "v10.28hole": {
-        "expire": "2024/01/01",
-        "warning": 14,
-        "ontime": false,
-        "run": true 
       }
     }
   }
