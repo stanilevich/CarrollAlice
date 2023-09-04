@@ -13,6 +13,19 @@
         "run": true 
       }
     },
+    "05f7d572f427273f350816c85ed39b61": {
+      "user": "Надежда Замятина",
+      "pcname": "DESKTOP-4B30F8G",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.26hole": {
+        "expire": "2023/09/04",
+        "warning": 14,
+        "ontime": false,
+        "run": true 
+      }
+    },
     "e28c491290aa95da2eefa637a5dbb1e2": {
       "user": "al_ovseanicov (Домашний комп)",
       "pcname": "DESKTOP-VK3MIDQ",
