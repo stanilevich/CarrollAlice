@@ -6,7 +6,7 @@
       "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
       "code": "Вышло обновление v10.22.27",
       "execute": false,
-      "v10.26hole": {
+      "v10.25hole": {
         "expire": "2023/09/15",
         "warning": 14,
         "ontime": false,
