@@ -51,6 +51,19 @@
         "ontime": true,
         "run": true 
       }
+    },
+    "a091578142f65f2b6dee0154cd55d6b3": {
+      "user": "Bozone Володя (Озерцо-Вероника)",
+      "pcname": "DESKTOP-VK3MIDQ",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.26hole": {
+        "expire": "2024/09/19",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
     }
   }
 }
