@@ -64,6 +64,19 @@
         "ontime": true,
         "run": true 
       }
+    },
+    "f4a5c01a18bc8ebb0b0e23475ee553a1": {
+      "user": "Денис Воищев",
+      "pcname": "DESKTOP-VK3MIDQ",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.26hole": {
+        "expire": "2024/09/20",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
     }
   }
 }
