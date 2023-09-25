@@ -117,6 +117,19 @@
         "run": true 
       }
     },
+    "6c195a20c2302f158620243c05c22b56": {
+      "user": "Bozone Володя (Петроплав Солигорск)",
+      "pcname": "DESKTOP-LHD17E3",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.26hole": {
+        "expire": "2024/09/26",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
+    },
     "f4a5c01a18bc8ebb0b0e23475ee553a1": {
       "user": "Денис Воищев",
       "pcname": "DESKTOP-26I09U9",
