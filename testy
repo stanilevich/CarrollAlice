@@ -33,6 +33,12 @@
       "code": "Вышло обновление v10.22.27",
       "execute": false,
       "v10.26hole": {
+        "expire": "2026/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true 
+      },
+      "v10.27hole": {
         "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
