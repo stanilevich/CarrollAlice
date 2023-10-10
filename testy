@@ -17,6 +17,12 @@
         "warning": 14,
         "ontime": false,
         "run": true 
+      },
+      "v10.25hole": {
+        "expire": "2023/09/15",
+        "warning": 14,
+        "ontime": false,
+        "run": true 
       }
     },
     "05f7d572f427273f350816c85ed39b61": {
