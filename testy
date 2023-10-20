@@ -193,5 +193,19 @@
         "run": true 
       }
     }
+    ,
+    "4313b9077f91e4462eada358c574033c": {
+      "user": "RODGAR-COMPUTER",
+      "pcname": "RODGAR-COMPUTER",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.27hole": {
+        "expire": "2024/10/21",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
+    }
   }
 }
