@@ -222,12 +222,25 @@
     },
     "0c9e84b11b0598c0c0522b5c0150eb2d": {
       "user": "LAPTOP-I87SHGVU",
-      "pcname": "LAPTOP-I87SHGVU",
+      "pcname": "LAPTOP-I87SHGVU Олеся",
       "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
       "code": "Вышло обновление v10.22.27",
       "execute": false,
       "v10.27hole": {
         "expire": "2024/11/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
+    },
+    "9500fd1e8544157ec3aed0052f0fee89": {
+      "user": "DESKTOP-HO9R6VB",
+      "pcname": "DESKTOP-HO9R6VB Олеся",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.27hole": {
+        "expire": "2024/11/02",
         "warning": 14,
         "ontime": true,
         "run": true 
