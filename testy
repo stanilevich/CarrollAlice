@@ -289,6 +289,19 @@
         "ontime": true,
         "run": true 
       }
+    },
+    "4f24394678fdd2e24bab590bca4f9b89": {
+      "user": "TD-DONTSIA-017 Павел",
+      "pcname": "TD-DONTSIA-017",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.27hole": {
+        "expire": "2024/11/10",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
     }
   }
 }
