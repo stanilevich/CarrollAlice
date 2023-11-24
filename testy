@@ -167,7 +167,7 @@
       "code": "Вышло обновление v10.22.27",
       "execute": false,
       "v10.26hole": {
-        "expire": "2024/09/20",
+        "expire": "2024/09/21",
         "warning": 14,
         "ontime": true,
         "run": true 
