@@ -341,6 +341,19 @@
         "ontime": true,
         "run": true 
       }
+    },
+    "bea15250dc4846137973e5af45c34c65": {
+      "user": "TECHNOLOG",
+      "pcname": "TECHNOLOG",
+      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
+      "code": "Вышло обновление v10.22.27",
+      "execute": false,
+      "v10.27hole": {
+        "expire": "2025/01/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true 
+      }
     }
   }
 }
