@@ -10,6 +10,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "afec7d3d0cd63ca31f3618ecaa1b1de6b008e47f6429e00cd02fcbb6e711ad04": {
+      "commander": "Николай Анатольевич",
+      "deadline": "2025/01/15",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
