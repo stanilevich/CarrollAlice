@@ -1,0 +1,19 @@
+﻿{
+  "black_hole": "Hole",
+  "singularity": {
+    "0.0.1": "ef14799d6c5cfe8404c2c47e691899fe9165269060ca50fb2d4cf211a5723b89e30ad0afbefa70ad85b88cc04db82fcf9023377c2a9a48ca0c0030abc2d9eaf4"
+  },
+  "singularitys": {
+    "0.0.1": ""
+  },
+  "composite": {
+    "a7fa29a2aa085eff660948d1290409a1e6b547910ec148eb7db160e8584ab135": {
+      "commander": "Станилевич Станислав",
+      "deadline": "2025/01/15",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    }
+  }
+}
