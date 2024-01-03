@@ -22,6 +22,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "290434c238946dc488940a1be80ded3e7b2d9b3cd051d210aa5cf6748ab69c33": {
+      "commander": "Сергей Новицкий",
+      "deadline": "2025/01/15",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
