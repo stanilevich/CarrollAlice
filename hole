@@ -9,6 +9,22 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "9136bac8d24e99907ba9ea345fb47db26be8498db967fbc08050d49472b912f5": {
+      "commander": "Дмитрий(Рюмочная)",
+      "deadline": "2026/01/01",
+      "spacecraft": "DESKTOP-GJK50KE",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "89cd4c33c9f4bdb1576cd0d1631f5392ca871be0572d81d0466e93edb922c277": {
+      "commander": "Анна Тютюнкова",
+      "deadline": "2025/01/01",
+      "spacecraft": "DESKTOP-GJK50KE",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
