@@ -272,19 +272,6 @@
         "run": true 
       }
     },
-    "0ee49f7a69081b2fd94b7e1a3d8c86c4": {
-      "user": "L0FD",
-      "pcname": "L0FD_STATION",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.27hole": {
-        "expire": "2024/01/18",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
     "2390a18360f1ff88157e486ffc3063c2": {
       "user": "Мария Левченко",
       "pcname": "DESKTOP-B9PF4C3",
