@@ -46,6 +46,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "45919f7c021f91504bba7e418fc3954d": {
+      "commander": "Федосов Сергей",
+      "deadline": "2025/01/01",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
