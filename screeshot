@@ -44,7 +44,7 @@
       "deadline": "2025/01/01",
       "spacecraft": "DESKTOP-GJK50KE",
       "warning": 14,
-      "infinity": false,
+      "infinity": true,
       "journey": true
     }
   }
