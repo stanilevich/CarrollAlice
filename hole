@@ -33,6 +33,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "ba613254250ea5438440f77f3fd92ef579a2bb3304d394bdd3cacc9776fdb7fc": {
+      "commander": "Валентин LOFD",
+      "deadline": "2025/12/04",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
