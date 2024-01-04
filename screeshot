@@ -38,6 +38,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "f2c9a4fceb43e8d2690c3a84f0b51ded7c9791e7f42536aa8e9960f3bc0b554f": {
+      "commander": "Дмитрий(Рюмочная)",
+      "deadline": "2026/01/01",
+      "spacecraft": "DESKTOP-GJK50KE",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
