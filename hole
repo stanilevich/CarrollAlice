@@ -41,6 +41,38 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "e92444f8297755c703a27aea98e03914acc5c886e4476bc03e382fae6a563b8e": {
+      "commander": "Vasile Andranovici",
+      "deadline": "2025/11/07",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "38c33e0a3452df1edf12f413a36df58cf6c52e3f93e288243c1825bc2b5fe89a": {
+      "commander": "TD-DONTSIA-017 Павел",
+      "deadline": "2024/11/10",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "51c81a6a13d16b149a5352e9f69394f8": {
+      "commander": "Dashkin",
+      "deadline": "2024/01/30",
+      "spacecraft": "DEMO TEST",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
+    },
+    "acc5331089e58af71613a51a03b81f1a7c9279701c74de724e6b05cf34832850": {
+      "commander": "Kostia",
+      "deadline": "2024/01/30",
+      "spacecraft": "DEMO TEST",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
