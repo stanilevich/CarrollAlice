@@ -220,19 +220,6 @@
         "run": true 
       }
     },
-    "53608acb6a26e77261ce4a380b0975f5": {
-      "user": "ASUS MAX",
-      "pcname": "ASUS",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.27hole": {
-        "expire": "2024/11/07",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
     "b47645ff7263a51f019941f3a5e06fcb": {
       "user": "TD-DONTSIA-010 Павел",
       "pcname": "TD-DONTSIA-010",

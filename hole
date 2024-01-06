@@ -81,6 +81,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "c80f1480377bc74b09685d5dce4a39b2": {
+      "commander": "ASUS MAX",
+      "deadline": "2025/11/07",
+      "spacecraft": "ASUS",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
