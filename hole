@@ -73,6 +73,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "f4de0535e2ac616405a8ca1aa4001acd68517fcf70b2961a9682f5ce50db1958": {
+      "commander": "Андрей",
+      "deadline": "2024/01/15",
+      "spacecraft": "DESKTOP-BE27QHC DEMO TEST",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
