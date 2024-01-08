@@ -97,6 +97,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "8318d4693fe52601d9391196f2ff636fd2effc729210957a2323314432fce361": {
+      "commander": "jdbl",
+      "deadline": "2025/01/09",
+      "spacecraft": "MGR-PAVELB",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
