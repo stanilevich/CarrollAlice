@@ -100,8 +100,16 @@
     },
     "8318d4693fe52601d9391196f2ff636fd2effc729210957a2323314432fce361": {
       "commander": "jdbl",
-      "deadline": "2025/01/09",
+      "deadline": "2025/01/10",
       "spacecraft": "MGR-PAVELB",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "b2c94e61de1265c32e3c5779eed75274ee3fda44dccbdc21862c9977131efd76": {
+      "commander": "jdbl",
+      "deadline": "2025/01/10",
+      "spacecraft": "MGR-KARASIKD",
       "warning": 14,
       "infinity": false,
       "journey": true
