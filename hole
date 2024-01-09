@@ -113,6 +113,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "70571cc1f7dbd2843b91cc3d655240c4f11052f6cfa244e4f59d2ed307190797": {
+      "commander": "jdbl",
+      "deadline": "2025/01/10",
+      "spacecraft": "PR-TEHNOLOG",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
