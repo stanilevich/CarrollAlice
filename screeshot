@@ -54,6 +54,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "6c1d01cb55e11e97fc525af02215cdd9": {
+      "commander": "Юрий скрипты",
+      "deadline": "2024/02/12",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
