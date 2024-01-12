@@ -121,6 +121,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "0f12daac477612e68a67f2d2d6e5ff942047b38a97ed6b243ea569c417d365a6": {
+      "commander": "Юрий(С Серегой в Чате)",
+      "deadline": "2024/01/16",
+      "spacecraft": "CONSTRUCTOR1",
+      "warning": 1,
+      "infinity": false,
+      "journey": true
     }
   }
 }
