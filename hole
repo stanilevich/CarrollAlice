@@ -137,6 +137,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "2f4dfcef79757e27bd5b8f2d5d8a8896d9c3efd45962a95a9a1ab7fd3111e1b8": {
+      "commander": "Mariia Levchenko",
+      "deadline": "2026/01/01",
+      "spacecraft": "DESKTOP-B9PF4C3",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
