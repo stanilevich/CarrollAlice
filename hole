@@ -169,6 +169,14 @@
       "warning": 1,
       "infinity": true,
       "journey": true
+    },
+    "dc5f67df9651bd0f5ad2cbbe4bd3f1dd853737d47aa30f05ab0fc0a23277a654": {
+      "commander": "Володя Bozone",
+      "deadline": "2025/01/20",
+      "spacecraft": "VIVOBOOK",
+      "warning": 1,
+      "infinity": true,
+      "journey": true
     }
   }
 }

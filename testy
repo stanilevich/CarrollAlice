@@ -32,25 +32,6 @@
         "run": true 
       }
     },
-    "5ab9c463cdeadcfe9486dc19f79b11d3": {
-      "user": "Bozone Володя (Личный Ноут)",
-      "pcname": "VIVOBOOK",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.26hole": {
-        "expire": "2023/09/19",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      },
-      "v10.27hole": {
-        "expire": "2024/09/19",
-        "warning": 4,
-        "ontime": true,
-        "run": true 
-      }
-    },
     "a091578142f65f2b6dee0154cd55d6b3": {
       "user": "Bozone Володя (Озерцо-Вероника)",
       "pcname": "OZR-15",
