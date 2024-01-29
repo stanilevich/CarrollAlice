@@ -201,19 +201,6 @@
         "run": true 
       }
     },
-    "bea15250dc4846137973e5af45c34c65": {
-      "user": "TECHNOLOG_Балу_Тольтти",
-      "pcname": "TECHNOLOG",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.27hole": {
-        "expire": "2025/01/01",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
     "1e10553dd696601c5c09c5c5f8fa14da": {
       "user": "MGR-PAVELB_Беларусь",
       "pcname": "MGR-PAVELB",
