@@ -185,6 +185,22 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "2fc855b3fa242fe0528207ddb3fcac92": {
+      "commander": "Володя Бозон",
+      "deadline": "2025/01/29",
+      "spacecraft": "OZR-3 Петроплав",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "5d554035166534d4fd52a9d40aa9363c044747d21b7f5ba00bb2ddf297f07dfe": {
+      "commander": "Володя Бозон",
+      "deadline": "2025/01/29",
+      "spacecraft": "DESKTOP-GHP0DMI Петроплав",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
