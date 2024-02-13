@@ -217,6 +217,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "c13f36ca0b0120c995384873eba63c81": {
+      "commander": "VERTEXX ЖЕНЯ",
+      "deadline": "2025/02/10",
+      "spacecraft": "JENYA",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
