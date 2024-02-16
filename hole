@@ -225,6 +225,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "fce55840e33fca5637835224325e6db41c9ded7c5afd24109869f331bbc06041": {
+      "commander": "Виктор",
+      "deadline": "2024/03/17",
+      "spacecraft": "DESKTOP-0ERG93H",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
