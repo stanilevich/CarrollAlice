@@ -13,38 +13,6 @@
         "run": true 
       }
     },
-    "e28c491290aa95da2eefa637a5dbb1e2": {
-      "user": "al_ovseanicov (Домашний комп)",
-      "pcname": "DESKTOP-VK3MIDQ",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.26hole": {
-        "expire": "2023/10/01",
-        "warning": 14,
-        "ontime": false,
-        "run": true 
-      },
-      "v10.27hole": {
-        "expire": "2024/01/01",
-        "warning": 14,
-        "ontime": false,
-        "run": true 
-      }
-    },
-    "a091578142f65f2b6dee0154cd55d6b3": {
-      "user": "Bozone Володя (Озерцо-Вероника)",
-      "pcname": "OZR-15",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.26hole": {
-        "expire": "2024/09/19",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
     "9b6a0fc980d099267e7af968a89e094e": {
       "user": "Bozone Володя (Петроплав Брест)",
       "pcname": "BREST-3",
@@ -53,45 +21,6 @@
       "execute": true,
       "v10.26hole": {
         "expire": "2024/09/21",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
-    "2f9b4d3f6684f5863dc0115dbb289cd8": {
-      "user": "Bozone Володя (Озерцо OZR-6)",
-      "pcname": "OZR-6",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.26hole": {
-        "expire": "2024/09/23",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
-    "b1211f1a57e36f7981e33e1433b3e089": {
-      "user": "Bozone Володя (Озерцо OZR-4)",
-      "pcname": "OZR-4",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.26hole": {
-        "expire": "2024/09/23",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
-    "6110999c0ce7effb0a75bfbbf1551d82": {
-      "user": "Bozone Володя (Озерцо OZR-0)",
-      "pcname": "OZR-0",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.26hole": {
-        "expire": "2024/09/23",
         "warning": 14,
         "ontime": true,
         "run": true 

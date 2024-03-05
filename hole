@@ -188,7 +188,7 @@
     },
     "2fc855b3fa242fe0528207ddb3fcac92": {
       "commander": "Володя Бозон",
-      "deadline": "2025/01/29",
+      "deadline": "2025/09/29",
       "spacecraft": "OZR-3 Петроплав",
       "warning": 14,
       "infinity": false,
@@ -196,7 +196,7 @@
     },
     "5d554035166534d4fd52a9d40aa9363c044747d21b7f5ba00bb2ddf297f07dfe": {
       "commander": "Володя Бозон",
-      "deadline": "2025/01/29",
+      "deadline": "2025/09/29",
       "spacecraft": "DESKTOP-GHP0DMI Петроплав",
       "warning": 14,
       "infinity": false,
@@ -231,6 +231,38 @@
       "deadline": "2024/03/17",
       "spacecraft": "DESKTOP-0ERG93H",
       "warning": 2,
+      "infinity": false,
+      "journey": true
+    },
+    "82c55848a306ecafdc68c4794b0ab17c": {
+      "commander": "Володя Бозон",
+      "deadline": "2025/09/29",
+      "spacecraft": "OZR-15 Петроплав",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "13c880a5fc130b824569b2aa75e89b36": {
+      "commander": "Володя Бозон",
+      "deadline": "2025/09/29",
+      "spacecraft": "OZR-4 Петроплав",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "1d24fef399a91827ac2b4be7f64a7d6d": {
+      "commander": "Володя Бозон",
+      "deadline": "2025/09/29",
+      "spacecraft": "OZR-6 Петроплав",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "8034e9ea072da9b7058fc896b5d62335": {
+      "commander": "Володя Бозон",
+      "deadline": "2025/09/29",
+      "spacecraft": "OZR-0 Петроплав",
+      "warning": 14,
       "infinity": false,
       "journey": true
     }
