@@ -26,19 +26,6 @@
         "run": true 
       }
     },
-    "93ab1f10c100ada3176ec2a77eaf9893": {
-      "user": "Денис Воищев",
-      "pcname": "DESKTOP-26I09U9",
-      "message": "Нет активной лицензии, для получения лицензии обратитесь к разработчику. TG: @Carroll_Alice",
-      "code": "Вышло обновление v11.33. После обновления - год в подарок!",
-      "execute": true,
-      "v10.27hole": {
-        "expire": "2024/12/21",
-        "warning": 14,
-        "ontime": true,
-        "run": true 
-      }
-    },
     "5dfd5d1229bd2623ae8fa813d8b931e3": {
       "user": "SMIRNOV-W10",
       "pcname": "SMIRNOV-W10",

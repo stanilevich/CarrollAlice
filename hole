@@ -273,6 +273,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "fa72afccde8f74e9b8253a8319801162a3ebeb4f488a4955fa46755af7443d42": {
+      "commander": "Денис Воищев",
+      "deadline": "2025/12/21",
+      "spacecraft": "DESKTOP-26I09U9",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
