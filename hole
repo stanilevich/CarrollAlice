@@ -291,9 +291,25 @@
       "journey": true
     },
     "a0e92358b7dd575495b4e2ae6fae8ffdaefceefce39e7f9c61c75f88c16fe61c": {
-      "commander": "Олеся",
-      "deadline": "2025/11/01",
+      "commander": "Олеся Павловна",
+      "deadline": "2025/11/02",
       "spacecraft": "LAPTOP-I87SHGVU",
+      "warning": 5,
+      "infinity": false,
+      "journey": true
+    },
+    "94beb9e2a1f41df33026af4c397fe975af03bd8c935fa02f69648547a0792eff": {
+      "commander": "Олеся Павловна",
+      "deadline": "2025/11/02",
+      "spacecraft": "DESKTOP-HO9R6VB",
+      "warning": 5,
+      "infinity": false,
+      "journey": true
+    },
+    "d4d1a60e690655aa531be6f59bc6597eae5c6909dd6f6c0a3ea2ae1f8e9255a8": {
+      "commander": "Олеся Павловна",
+      "deadline": "2025/03/20",
+      "spacecraft": "DESKTOP-59BB5FS",
       "warning": 5,
       "infinity": false,
       "journey": true
