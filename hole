@@ -289,6 +289,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "a0e92358b7dd575495b4e2ae6fae8ffdaefceefce39e7f9c61c75f88c16fe61c": {
+      "commander": "Олеся",
+      "deadline": "2025/11/01",
+      "spacecraft": "LAPTOP-I87SHGVU",
+      "warning": 5,
+      "infinity": false,
+      "journey": true
     }
   }
 }
