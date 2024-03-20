@@ -281,6 +281,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "dd637c263238ce496e66f1c5f44d8260": {
+      "commander": "Sergey Zenkov",
+      "deadline": "2024/04/02",
+      "spacecraft": "KONC1",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
