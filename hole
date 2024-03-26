@@ -232,7 +232,7 @@
       "spacecraft": "DESKTOP-0ERG93H",
       "warning": 2,
       "infinity": false,
-      "journey": true
+      "journey": false
     },
     "82c55848a306ecafdc68c4794b0ab17c": {
       "commander": "Володя Бозон",
