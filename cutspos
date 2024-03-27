@@ -19,9 +19,17 @@
       "journey": true
     },
     "4052a19203935222dc7f4156a6c7e3dec0f6798353239a7be135bca7e0807d39": {
-      "commander": "https://t.me/Evgeniy_sms",
+      "commander": "Evgeniy_sms",
       "deadline": "2025/01/15",
       "spacecraft": "DESKTOP-QV664VB",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "f2c9a4fceb43e8d2690c3a84f0b51ded7c9791e7f42536aa8e9960f3bc0b554f": {
+      "commander": "Андрей bratish_ka",
+      "deadline": "2025/01/15",
+      "spacecraft": "HONOR-16",
       "warning": 14,
       "infinity": true,
       "journey": true
