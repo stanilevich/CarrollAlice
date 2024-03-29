@@ -41,6 +41,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "c13f36ca0b0120c995384873eba63c81": {
+      "commander": "vertexx",
+      "deadline": "2025/01/16",
+      "spacecraft": "JENYA",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
