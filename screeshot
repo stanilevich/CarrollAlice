@@ -70,6 +70,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "76bf7eaf32be127b9399825adb07016cdaa0ce5945f429d593d20cc45c098a69": {
+      "commander": "Yegor",
+      "deadline": "2024/04/07",
+      "spacecraft": "Домашний комп",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
