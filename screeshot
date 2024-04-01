@@ -78,6 +78,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "d187ee2c743db9437f23fa5ae984678afd1e3fc15634f4ddeebf82fc21eb9118": {
+      "commander": "Георгий Бородин",
+      "deadline": "2029/04/12",
+      "spacecraft": "Домашний комп",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
