@@ -17,6 +17,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "563bdbba418554c517dcaded3e257f42": {
+      "commander": "Евгений",
+      "deadline": "2025/01/15",
+      "spacecraft": "SMS",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
