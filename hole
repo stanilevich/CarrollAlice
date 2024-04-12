@@ -313,6 +313,14 @@
       "warning": 5,
       "infinity": false,
       "journey": true
+    },
+    "0c631ca32a9acacc6d8cf1ee783b6dfd42b17ef44f067d40f71aee267bce11bc": {
+      "commander": "Надежда Замятина",
+      "deadline": "2025/03/20",
+      "spacecraft": "DESKTOP-DRIV73P",
+      "warning": 5,
+      "infinity": true,
+      "journey": true
     }
   }
 }
