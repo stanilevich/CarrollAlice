@@ -57,6 +57,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "19841bb96ba42d500f4121f1a42f0e7890c5fcedcf096415df11357eadf04602": {
+      "commander": "Семен Панютин",
+      "deadline": "2025/01/16",
+      "spacecraft": "PANYUTINPC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
