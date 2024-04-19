@@ -321,6 +321,14 @@
       "warning": 5,
       "infinity": true,
       "journey": true
+    },
+    "25ef1a7c5b110978241f1ee8738357fc61972b4b3142ec27c9252af4c3859252": {
+      "commander": "Виктор Кушнарев",
+      "deadline": "2025/04/19",
+      "spacecraft": "VIKTOR-PC",
+      "warning": 5,
+      "infinity": false,
+      "journey": true
     }
   }
 }
