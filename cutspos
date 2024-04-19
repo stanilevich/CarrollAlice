@@ -65,6 +65,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "ba613254250ea5438440f77f3fd92ef579a2bb3304d394bdd3cacc9776fdb7fc": {
+      "commander": "Валентин",
+      "deadline": "2025/01/16",
+      "spacecraft": "L0FD_STATION",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
