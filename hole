@@ -234,18 +234,18 @@
       "infinity": false,
       "journey": true
     },
-    "82c55848a306ecafdc68c4794b0ab17c": {
-      "commander": "Володя Бозон",
+    "4e3339dcd679ce9486e2e9a44b3c3e7054b63eaf0254435a7b2a5992bfb3ba2e": {
+      "commander": "Володя Бозон Петроплав Минск",
       "deadline": "2025/09/29",
-      "spacecraft": "OZR-15 Петроплав",
+      "spacecraft": "1ERASPIL7",
       "warning": 14,
       "infinity": false,
       "journey": true
     },
-    "13c880a5fc130b824569b2aa75e89b36": {
-      "commander": "Володя Бозон",
+    "6d3ea4cfa8d0e685155b5802b1b3f28fe89a6a17972a1693185cc498b3517dba": {
+      "commander": "Володя Бозон Петроплав Минск",
       "deadline": "2025/09/29",
-      "spacecraft": "OZR-4 Петроплав",
+      "spacecraft": "1ERASPIL6",
       "warning": 13,
       "infinity": false,
       "journey": true
