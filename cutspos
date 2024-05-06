@@ -73,6 +73,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "77a68125d08a27170cc312b72ddf9791": {
+      "commander": "Костантин",
+      "deadline": "2025/01/16",
+      "spacecraft": "RENE61",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
