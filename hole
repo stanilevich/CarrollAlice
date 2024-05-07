@@ -7,7 +7,7 @@
       "deadline": "2025/01/15",
       "spacecraft": "Домашний комп",
       "warning": 14,
-      "infinity": true,
+      "infinity": false,
       "journey": true
     },
     "9136bac8d24e99907ba9ea345fb47db26be8498db967fbc08050d49472b912f5": {
