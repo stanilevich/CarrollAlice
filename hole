@@ -332,9 +332,9 @@
     },
     "866d6ac916023971083ba9dff5ec147fb7105444122473bd2e48a3447b8828be": {
       "commander": "Коломин Сергей Александрович",
-      "deadline": "2024/18/30",
+      "deadline": "2025/05/30",
       "spacecraft": "CXEMBOOK1172",
-      "warning": 2,
+      "warning": 14,
       "infinity": false,
       "journey": true
     }
