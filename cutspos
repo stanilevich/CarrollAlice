@@ -1,0 +1,86 @@
+﻿{
+  "black_hole": "cutspos1",
+  "singularity": "b4f677c33178847f9e20af33e722e438524958d835c1991790d17a01055a75e4045b7757bbff56f3fa0deeeb0dd1da4e099c1f52524600e195260ef36c01b0d992d58167b96a3e317920d14a9ad7699cd868096d4e2a73564ba6f233f4084807e879afea63f98d6f82f05a0132296f3f6d55c0c9b031acd351d274d1d8ed3e580af9f2fd57e49cbe85c74a6d395b5700",
+  "composite": {
+    "a7fa29a2aa085eff660948d1290409a1e6b547910ec148eb7db160e8584ab135": {
+      "commander": "Станилевич Станислав",
+      "deadline": "2025/01/15",
+      "spacecraft": "WIN-EC3HMJ8FC7L",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "d187ee2c743db9437f23fa5ae984678afd1e3fc15634f4ddeebf82fc21eb9118": {
+      "commander": "Георгий Бородин",
+      "deadline": "2025/01/15",
+      "spacecraft": "LENOVO-PC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "563bdbba418554c517dcaded3e257f42": {
+      "commander": "Evgeniy_sms",
+      "deadline": "2025/01/15",
+      "spacecraft": "SMS",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "f2c9a4fceb43e8d2690c3a84f0b51ded7c9791e7f42536aa8e9960f3bc0b554f": {
+      "commander": "Андрей bratish_ka",
+      "deadline": "2025/01/15",
+      "spacecraft": "HONOR-16",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "4d0cc9fa9dab098bf5faa9237c38e8102c1ae5c3e30abe62a8e2105bd467ca8d": {
+      "commander": "Victor Möberg",
+      "deadline": "2025/01/16",
+      "spacecraft": "DESKTOP-X99-F8D",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "c13f36ca0b0120c995384873eba63c81": {
+      "commander": "vertexx",
+      "deadline": "2025/01/16",
+      "spacecraft": "JENYA",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "6e05690bcf0c3974a027dd121cdd943f5a07d162d0b0178686413d64ac68d535": {
+      "commander": "Олег Карпухин",
+      "deadline": "2025/01/16",
+      "spacecraft": "KOMPUTER",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "19841bb96ba42d500f4121f1a42f0e7890c5fcedcf096415df11357eadf04602": {
+      "commander": "Семен Панютин",
+      "deadline": "2025/01/16",
+      "spacecraft": "PANYUTINPC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "ba613254250ea5438440f77f3fd92ef579a2bb3304d394bdd3cacc9776fdb7fc": {
+      "commander": "Валентин",
+      "deadline": "2025/01/16",
+      "spacecraft": "L0FD_STATION",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "77a68125d08a27170cc312b72ddf9791": {
+      "commander": "Костантин",
+      "deadline": "2025/01/16",
+      "spacecraft": "RENE61",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    }
+  }
+}
