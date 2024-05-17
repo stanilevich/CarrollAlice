@@ -165,7 +165,7 @@
     "234c17b4789b1544127ac05be102db1b": {
       "commander": "Алексанр Громов",
       "deadline": "2025/01/20",
-      "spacecraft": "BAZA_Дилер",
+      "spacecraft": "Ноут_Дилер",
       "warning": 1,
       "infinity": true,
       "journey": true
