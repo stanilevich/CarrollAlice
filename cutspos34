@@ -81,6 +81,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "c80f1480377bc74b09685d5dce4a39b2": {
+      "commander": "Максим Александрович",
+      "deadline": "2025/01/16",
+      "spacecraft": "ASUS",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
