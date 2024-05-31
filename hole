@@ -337,6 +337,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "ce4c9ce76df0cbf65057a73668a86232": {
+      "commander": "Ткачук Виталий",
+      "deadline": "2025/05/31",
+      "spacecraft": "VITALIY",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
