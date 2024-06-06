@@ -97,6 +97,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "45919f7c021f91504bba7e418fc3954d": {
+      "commander": "Федосов Сергей.",
+      "deadline": "2025/01/16",
+      "spacecraft": "FEDOSPC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
