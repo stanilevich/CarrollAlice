@@ -105,6 +105,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "4658169d8e1b06e0bbad9bdc11a8f261": {
+      "commander": "Александр Дианов",
+      "deadline": "2025/01/16",
+      "spacecraft": "ALEKS",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
