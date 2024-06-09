@@ -113,6 +113,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "f14c026554e59d43dd9041fcd44a13ef50069c1eaabcaf1bca9bc6d0e4ef73b4": {
+      "commander": "Кирилл Залесов",
+      "deadline": "2025/01/16",
+      "spacecraft": "KOMPUTER",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
