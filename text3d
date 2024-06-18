@@ -41,6 +41,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "cbb446eca16c29bb6319725e6d34d6ec28deb1a363f337288f9bea60941860b1": {
+      "commander": "Илья Черкасов",
+      "deadline": "2025/01/16",
+      "spacecraft": "MSI_GL75-10SDK",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
