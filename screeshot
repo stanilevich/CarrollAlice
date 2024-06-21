@@ -86,6 +86,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "77a68125d08a27170cc312b72ddf9791": {
+      "commander": "Константин Ростов",
+      "deadline": "2029/04/12",
+      "spacecraft": "Рабочий комп",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
