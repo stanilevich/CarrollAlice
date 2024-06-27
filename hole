@@ -353,14 +353,6 @@
       "warning": 14,
       "infinity": true,
       "journey": true
-    },
-    "c3c3e21f458d6c4a789f21cd4b43e14b6db5ed34f5781f232be0dae7c0a1a8d2": {
-      "commander": "Константин Седов Балу",
-      "deadline": "2025/06/27",
-      "spacecraft": "DESKTOP-7GCL6RJ",
-      "warning": 14,
-      "infinity": false,
-      "journey": false
     }
   }
 }
