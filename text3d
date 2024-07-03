@@ -57,6 +57,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "f2c9a4fceb43e8d2690c3a84f0b51ded7c9791e7f42536aa8e9960f3bc0b554f": {
+      "commander": "Андрей Сафонов",
+      "deadline": "2025/01/16",
+      "spacecraft": "HONOR-16",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
