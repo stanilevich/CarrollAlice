@@ -153,6 +153,14 @@
       "warning": 2,
       "infinity": true,
       "journey": true
+    },
+    "e92444f8297755c703a27aea98e03914acc5c886e4476bc03e382fae6a563b8e": {
+      "commander": "Vasile Andranovici",
+      "deadline": "2025/01/16",
+      "spacecraft": "HOMME-PC-A",
+      "warning": 2,
+      "infinity": true,
+      "journey": true
     }
   }
 }
