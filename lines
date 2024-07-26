@@ -23,6 +23,14 @@
       "deadline": "2024/08/03",
       "spacecraft": "MEGACOMP",
       "warning": 2,
+      "infinity": false,
+      "journey": true
+    },
+    "ab78734a333f17a7438642bab857bca7796f5ce8fb9986ddbf0a681051ebb772": {
+      "commander": "Creator_inc.",
+      "deadline": "2024/08/03",
+      "spacecraft": "MEGATHRON",
+      "warning": 2,
       "infinity": true,
       "journey": true
     }
