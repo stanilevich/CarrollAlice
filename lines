@@ -17,6 +17,14 @@
       "warning": 2,
       "infinity": true,
       "journey": true
+    },
+    "231ba1150aa725d3e8ff7b5892b529ed18eb77140095df766349526847946529": {
+      "commander": "Милородов Сергей Анатольевич",
+      "deadline": "2024/08/03",
+      "spacecraft": "MEGACOMP",
+      "warning": 2,
+      "infinity": true,
+      "journey": true
     }
   }
 }
