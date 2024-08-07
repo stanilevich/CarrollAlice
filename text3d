@@ -73,6 +73,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+     "5155c11303b0fe35aeee16614b466fbf": {
+      "commander": "Игорь Трегубов",
+      "deadline": "2024/06/15",
+      "spacecraft": "HOLYMAN",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
