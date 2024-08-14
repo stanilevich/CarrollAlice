@@ -94,6 +94,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "32de9916e9b4cf2b2d22f948513597fb61b750a9e91767138179b721c6ad1ce0": {
+      "commander": "Илья Черкасов",
+      "deadline": "2025/01/16",
+      "spacecraft": "WIN-9QUGOJA32N8",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
