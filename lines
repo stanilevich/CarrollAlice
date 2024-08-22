@@ -33,6 +33,14 @@
       "warning": 2,
       "infinity": true,
       "journey": true
+    },
+    "4a9f9343d2a3644159b1c79ab260354a": {
+      "commander": "Skaler",
+      "deadline": "2024/08/03",
+      "spacecraft": "PC01A",
+      "warning": 2,
+      "infinity": true,
+      "journey": true
     }
   }
 }
