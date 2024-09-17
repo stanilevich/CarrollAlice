@@ -361,6 +361,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "70704badd196a4aa6c1326d3d835472073ae1e5eade306ad9a6cb7217843ceb7": {
+      "commander": "Костриков Алексей Владимирович",
+      "deadline": "2024/07/01",
+      "spacecraft": "CRAZYMATADOR",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
