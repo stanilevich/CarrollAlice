@@ -274,6 +274,14 @@
       "infinity": false,
       "journey": true
     },
+    "98e700083ef36fb93627a2e0ce163a3866cc4df58722c01d535a9e4e34020a5d": {
+      "commander": "Володя Бозон Петроплав Солигорск",
+      "deadline": "2025/09/29",
+      "spacecraft": "DESKTOP-LHD17E3",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "fa72afccde8f74e9b8253a8319801162a3ebeb4f488a4955fa46755af7443d42": {
       "commander": "Денис Воищев",
       "deadline": "2025/12/21",
