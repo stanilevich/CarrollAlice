@@ -116,7 +116,7 @@
       "deadline": "2024/12/31",
       "spacecraft": "L0FD-STATION",
       "warning": 14,
-      "infinity": true,
+      "infinity": false,
       "journey": true
     }
   }
