@@ -110,6 +110,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "5d51900dc7495428be52a567012f2828d9ba011808cc2e47d6830411e3628335": {
+      "commander": "Валентин Алена",
+      "deadline": "2024/12/31",
+      "spacecraft": "L0FD-STATION",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
