@@ -169,6 +169,14 @@
       "warning": 2,
       "infinity": true,
       "journey": true
+    },
+    "991ab03257ed2ffdb57bd515658d2490": {
+      "commander": "Черепанов Сергей",
+      "deadline": "2025/02/10",
+      "spacecraft": "PC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
