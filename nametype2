@@ -33,6 +33,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "b8a0ddb72de47afabeb328ed94708b1b561403bfc3cf097d760ed032a23491bc": {
+      "commander": "Архипов Антон Викторович",
+      "deadline": "2025/01/16",
+      "spacecraft": "DESKTOP-DCGEN0R",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
