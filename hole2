@@ -380,9 +380,9 @@
     },
     "3b4d8433984d37c27f0eb84628aff1dabca786280b08b01d41fca19e78aeedfc": {
       "commander": "Костриков Алексей Владимирович",
-      "deadline": "2024/10/01",
+      "deadline": "2024/11/04",
       "spacecraft": "DESKTOP-CFLOTKM",
-      "warning": 14,
+      "warning": 2,
       "infinity": false,
       "journey": true
     },
