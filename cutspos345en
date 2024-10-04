@@ -10,6 +10,14 @@
       "infinity": true,
       "journey": true
     },
+    "25b89e55554d70691f840b0ef5a9bef7": {
+      "commander": "Alexandr Ovseanicov",
+      "deadline": "2025/01/15",
+      "spacecraft": "BAZIS",
+      "warning": 10,
+      "infinity": true,
+      "journey": true
+    },
     "d187ee2c743db9437f23fa5ae984678afd1e3fc15634f4ddeebf82fc21eb9118": {
       "commander": "Георгий Бородин",
       "deadline": "2025/01/15",
