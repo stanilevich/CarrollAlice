@@ -185,6 +185,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "fee05bd531a2b50b37ebc7732a342577298b6c5bf4709fdbb3d0fef9a9bde719": {
+      "commander": "LANA_IONUT",
+      "deadline": "2025/02/10",
+      "spacecraft": "DESKTOP-HP",
+      "warning": 10,
+      "infinity": true,
+      "journey": true
     }
   }
 }
