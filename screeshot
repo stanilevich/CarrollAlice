@@ -124,7 +124,7 @@
       "deadline": "2024/10/06",
       "spacecraft": "SMS",
       "warning": 2,
-      "infinity": false,
+      "infinity": true,
       "journey": true
     }
   }
