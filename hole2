@@ -393,6 +393,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "342873faa194c919062446f3f41b3b78": {
+      "commander": "Седов Константин Алексеевич",
+      "deadline": "2026/01/01",
+      "spacecraft": "HULK",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
