@@ -41,6 +41,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "4c0210865cfeb32c64b9e3dac79d6123bddb5ed863b1b4b6d9d62170f3ebb7da": {
+      "commander": "Denis_Uzdjakin",
+      "deadline": "empty",
+      "spacecraft": "KONSTRUKTOR_BM",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
