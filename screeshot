@@ -126,6 +126,14 @@
       "warning": 2,
       "infinity": true,
       "journey": true
+    },
+    "4352a7a278e1411f5103dd113c5bc3ed": {
+      "commander": "Мурзенков",
+      "deadline": "2025/10/17",
+      "spacecraft": "SMS",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
