@@ -401,6 +401,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "98aa28cbf04b147aa47e068bf42a4c93ae5d86afcb504db52c59169a6e1443f9": {
+      "commander": "Olesja_Martinova",
+      "deadline": "2025/11/07",
+      "spacecraft": "DESKTOP-JARQBLE",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
