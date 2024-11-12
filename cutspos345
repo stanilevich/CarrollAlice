@@ -193,6 +193,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "b4e3a3511d24fccddce8fd78ff3ed1eaef8624d421a1d45a7ca50d80a44a69e0": {
+      "commander": "Панютин Семен",
+      "deadline": "2025/02/10",
+      "spacecraft": "PANUTIN_NOTE",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
