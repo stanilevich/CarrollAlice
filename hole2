@@ -298,14 +298,14 @@
       "infinity": false,
       "journey": true
     },
-    "24176570684bd564a0511db435ea110236285ed283e7db7cc6b0f2a3427fbb8c": {
-      "commander": "Sergey Zenkov",
-      "deadline": "2024/12/17",
-      "spacecraft": "DESKTOP-M20O2NC",
-      "warning": 2,
-      "infinity": false,
-      "journey": true
-    },
+    "dd637c263238ce496e66f1c5f44d8260": {
+      "commander": "Sergej_Zenkov",
+      "deadline": "2024/12/17",
+      "spacecraft": "KONC1",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
+    },
     "a0e92358b7dd575495b4e2ae6fae8ffdaefceefce39e7f9c61c75f88c16fe61c": {
       "commander": "Олеся Павловна",
       "deadline": "2025/11/02",
