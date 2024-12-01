@@ -194,6 +194,14 @@
       "infinity": true,
       "journey": true
     },
+    "f7e7199fd44c6597b5c7c9ae4cfe5e1dc225b998575352c36d4d4119727860eb": {
+      "commander": "Kirill_Lunjaka",
+      "deadline": "2025/02/10",
+      "spacecraft": "LAPTOP-NCQ41VQ4",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "b4e3a3511d24fccddce8fd78ff3ed1eaef8624d421a1d45a7ca50d80a44a69e0": {
       "commander": "Панютин Семен",
       "deadline": "2025/02/10",

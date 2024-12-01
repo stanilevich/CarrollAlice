@@ -298,14 +298,14 @@
       "infinity": false,
       "journey": true
     },
-    "24176570684bd564a0511db435ea110236285ed283e7db7cc6b0f2a3427fbb8c": {
-      "commander": "Sergey Zenkov",
-      "deadline": "2024/12/17",
-      "spacecraft": "DESKTOP-M20O2NC",
-      "warning": 2,
-      "infinity": false,
-      "journey": true
-    },
+    "6d751306f66a2fa72b0205f49c292e4a6f9745ce35dd812bf328510cbcaceda8": {
+      "commander": "Sergej_Zenkov",
+      "deadline": "2024/12/17",
+      "spacecraft": "DESKTOP-AG38P3N",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
+    },
     "a0e92358b7dd575495b4e2ae6fae8ffdaefceefce39e7f9c61c75f88c16fe61c": {
       "commander": "Олеся Павловна",
       "deadline": "2025/11/02",
@@ -402,6 +402,14 @@
       "infinity": false,
       "journey": true
     },
+    "8d50b000289d98b5921503cf362a87715e43b00ab778022e33153caa51e95403": {
+      "commander": "Dolgov_Mihail",
+      "deadline": "2025/11/27",
+      "spacecraft": "DESKTOP-GQBI843",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "98aa28cbf04b147aa47e068bf42a4c93ae5d86afcb504db52c59169a6e1443f9": {
       "commander": "Olesja_Martinova",
       "deadline": "2025/11/07",
