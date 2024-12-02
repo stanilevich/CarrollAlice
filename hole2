@@ -418,6 +418,14 @@
       "infinity": true,
       "journey": true
     },
+        "701dcba8de472fd42f85f70c58e131289a38f4772a2a1832db786ce07c689487": {
+          "commander": "Cibulja_Aleksej MG",
+          "deadline": "2025/11/07",
+          "spacecraft": "TECH6-PC",
+          "warning": 14,
+          "infinity": true,
+          "journey": true
+        },
     "98aa28cbf04b147aa47e068bf42a4c93ae5d86afcb504db52c59169a6e1443f9": {
       "commander": "Olesja_Martinova",
       "deadline": "2025/11/07",
