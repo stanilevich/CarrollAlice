@@ -410,6 +410,14 @@
       "infinity": false,
       "journey": true
     },
+    "d533497f7d2fb758ce6bb8142280e6e04b1e5f9cbe1f08bdfbd79577e1b0225e": {
+      "commander": "OlLga_Uljashova MG",
+      "deadline": "2025/11/07",
+      "spacecraft": "TECH4-PC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "98aa28cbf04b147aa47e068bf42a4c93ae5d86afcb504db52c59169a6e1443f9": {
       "commander": "Olesja_Martinova",
       "deadline": "2025/11/07",
