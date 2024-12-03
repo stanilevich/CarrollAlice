@@ -418,6 +418,14 @@
       "infinity": true,
       "journey": true
     },
+    "e71533bbc5acb74f5b3d886bada57cb9": {
+      "commander": "Mihnevich_OlLga MG",
+      "deadline": "2025/11/07",
+      "spacecraft": "KA-PK-2",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
         "701dcba8de472fd42f85f70c58e131289a38f4772a2a1832db786ce07c689487": {
           "commander": "Cibulja_Aleksej MG",
           "deadline": "2025/11/07",
