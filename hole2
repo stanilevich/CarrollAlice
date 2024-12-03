@@ -418,6 +418,14 @@
       "infinity": true,
       "journey": true
     },
+    "65a4ffa2ac6cb496e673c095e61d3737276b4a4ae8e801d345a7a6cd39d2728c": {
+      "commander": "Irina_SHevkunova MG",
+      "deadline": "2025/11/07",
+      "spacecraft": "WS-001-016",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "e71533bbc5acb74f5b3d886bada57cb9": {
       "commander": "Mihnevich_OlLga MG",
       "deadline": "2025/11/07",
