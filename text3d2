@@ -82,6 +82,14 @@
       "infinity": true,
       "journey": true
     },
+    "4d0cc9fa9dab098bf5faa9237c38e8102c1ae5c3e30abe62a8e2105bd467ca8d": {
+      "commander": "Moberg_Victor",
+      "deadline": "2024/06/15",
+      "spacecraft": "DESKTOP-X99-F8D",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
      "1fd526a402b7ff658dcd75bbfe5fd77c98367aff0708ce0b80988b11ce65fb36": {
       "commander": "Сергей(КАНАДА)",
       "deadline": "2024/06/15",
