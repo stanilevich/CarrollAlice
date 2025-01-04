@@ -89,14 +89,6 @@
       "warning": 14,
       "infinity": true,
       "journey": true
-    },
-     "1fd526a402b7ff658dcd75bbfe5fd77c98367aff0708ce0b80988b11ce65fb36": {
-      "commander": "Сергей(КАНАДА)",
-      "deadline": "2024/06/15",
-      "spacecraft": "DESKTOP-HNP8BLC",
-      "warning": 14,
-      "infinity": true,
-      "journey": true
     }
   }
 }
