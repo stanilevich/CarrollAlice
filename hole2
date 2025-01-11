@@ -434,18 +434,26 @@
       "infinity": true,
       "journey": true
     },
-        "701dcba8de472fd42f85f70c58e131289a38f4772a2a1832db786ce07c689487": {
-          "commander": "Cibulja_Aleksej MG",
-          "deadline": "2025/11/07",
-          "spacecraft": "TECH6-PC",
-          "warning": 14,
-          "infinity": true,
-          "journey": true
-        },
+    "701dcba8de472fd42f85f70c58e131289a38f4772a2a1832db786ce07c689487": {
+      "commander": "Cibulja_Aleksej MG",
+      "deadline": "2025/11/07",
+      "spacecraft": "TECH6-PC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "98aa28cbf04b147aa47e068bf42a4c93ae5d86afcb504db52c59169a6e1443f9": {
       "commander": "Olesja_Martinova",
       "deadline": "2025/11/07",
       "spacecraft": "DESKTOP-JARQBLE",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "c0e1f367c2f08014bddfbb53a7bb0140c298950aded6c201957586a0c0326484": {
+      "commander": "Dmitrij",
+      "deadline": "2025/02/12",
+      "spacecraft": "OFFICE-WORKSTAT",
       "warning": 14,
       "infinity": false,
       "journey": true
