@@ -100,7 +100,7 @@
     },
     "8318d4693fe52601d9391196f2ff636fd2effc729210957a2323314432fce361": {
       "commander": "jdbl",
-      "deadline": "2025/01/10",
+      "deadline": "2026/01/14",
       "spacecraft": "MGR-PAVELB",
       "warning": 14,
       "infinity": false,
@@ -108,7 +108,7 @@
     },
     "b2c94e61de1265c32e3c5779eed75274ee3fda44dccbdc21862c9977131efd76": {
       "commander": "jdbl",
-      "deadline": "2025/01/10",
+      "deadline": "2026/01/14",
       "spacecraft": "MGR-KARASIKD",
       "warning": 14,
       "infinity": false,
@@ -116,7 +116,7 @@
     },
     "70571cc1f7dbd2843b91cc3d655240c4f11052f6cfa244e4f59d2ed307190797": {
       "commander": "jdbl",
-      "deadline": "2025/01/10",
+      "deadline": "2026/01/14",
       "spacecraft": "PR-TEHNOLOG",
       "warning": 14,
       "infinity": false,
