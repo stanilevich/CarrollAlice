@@ -450,6 +450,14 @@
       "infinity": false,
       "journey": true
     },
+    "dd0cc31a0ebca755abb8796902d454fde1a10a77d2776392ffc7608520a866f8": {
+      "commander": "Fedorov_Maksim_Dmitrievich",
+      "deadline": "2026/01/15",
+      "spacecraft": "DESKTOP-1GDK9MO",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "c0e1f367c2f08014bddfbb53a7bb0140c298950aded6c201957586a0c0326484": {
       "commander": "Dmitrij",
       "deadline": "2025/02/12",
