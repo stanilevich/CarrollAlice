@@ -458,6 +458,14 @@
       "infinity": false,
       "journey": true
     },
+    "8f4a3561741b4fe3a57953eba570acdba6f1dfba0d186ecc0d1d07c86c7522ef": {
+      "commander": "Вильнар",
+      "deadline": "2025/02/12",
+      "spacecraft": "DESKTOP-3Q3N090",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "c0e1f367c2f08014bddfbb53a7bb0140c298950aded6c201957586a0c0326484": {
       "commander": "Dmitrij",
       "deadline": "2025/02/12",
