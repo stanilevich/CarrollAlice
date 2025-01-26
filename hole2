@@ -31,7 +31,7 @@
       "deadline": "2025/07/01",
       "spacecraft": "DESKTOP-AVD4TLO",
       "warning": 14,
-      "infinity": false,
+      "infinity": true,
       "journey": true
     },
     "564c837bcd45875ac16eff3074e9a691923146a2e44c692152a979f77fc23e26": {
