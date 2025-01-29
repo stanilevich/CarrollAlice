@@ -482,6 +482,14 @@
       "infinity": true,
       "journey": true
     },
+    "d82d44f6e3fd63ddf5b62f063052fb08": {
+      "commander": "Bogdanov_Eduard",
+      "deadline": "2025/02/01",
+      "spacecraft": "FADIS",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "c0e1f367c2f08014bddfbb53a7bb0140c298950aded6c201957586a0c0326484": {
       "commander": "Dmitrij",
       "deadline": "2025/02/12",
