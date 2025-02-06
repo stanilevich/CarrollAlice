@@ -359,7 +359,7 @@
       "deadline": "2025/09/30",
       "spacecraft": "SIM-06-24",
       "warning": 14,
-      "infinity": false,
+      "infinity": true,
       "journey": true
     },
     "d198696030cdac935ebfd69c0229d91b92688bde9cca180a9d360f92ee264825": {
