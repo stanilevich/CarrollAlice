@@ -82,6 +82,14 @@
       "infinity": true,
       "journey": true
     },
+    "de62c381847a4a3a5802ac48789b6dbd5efb24ce0857bd4b3db44b1ba26843dd": {
+      "commander": "Игорь Трегубов",
+      "deadline": "empty",
+      "spacecraft": "LAPTOP-B3778TN6",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "d119c9084ee077c121dbd4d9498a315baf479c7b5c73741d409ae2bc648c77f3": {
       "commander": "Игорь Трегубов",
       "deadline": "2024/06/15",
