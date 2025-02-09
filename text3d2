@@ -90,6 +90,14 @@
       "infinity": true,
       "journey": true
     },
+    "4da43a82031d1790899ecf3499ab3f33ca8ea278f94aa64859d9f74004f86d0b": {
+      "commander": "Konstantin_Korobejnikov",
+      "deadline": "2024/06/15",
+      "spacecraft": "DESKTOP-99DQ56V",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "d119c9084ee077c121dbd4d9498a315baf479c7b5c73741d409ae2bc648c77f3": {
       "commander": "Игорь Трегубов",
       "deadline": "2024/06/15",
