@@ -26,6 +26,14 @@
       "infinity": false,
       "journey": true
     },
+    "f8f39c0307481fe5d3b4f6ddd846b3b0c8414d591cf68c8c1982726a732d553f": {
+      "commander": "Александр Сарыгин",
+      "deadline": "2025/09/30",
+      "spacecraft": "SIM-06-24",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "ab78734a333f17a7438642bab857bca7796f5ce8fb9986ddbf0a681051ebb772": {
       "commander": "Creator_inc.",
       "deadline": "2024/08/03",
