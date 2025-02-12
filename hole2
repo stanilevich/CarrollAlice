@@ -490,6 +490,14 @@
       "infinity": false,
       "journey": true
     },
+    "43de13fe37791471ae7de9817f373a55": {
+      "commander": "Rasul_Dalahagiev Константин Седов",
+      "deadline": "2026/02/13",
+      "spacecraft": "RASULD",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "c0e1f367c2f08014bddfbb53a7bb0140c298950aded6c201957586a0c0326484": {
       "commander": "Dmitrij",
       "deadline": "2025/02/12",
