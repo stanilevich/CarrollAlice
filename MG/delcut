@@ -1,0 +1,62 @@
+﻿{
+  "black_hole": "delcut",
+  "singularity": "",
+  "composite": {
+    "d533497f7d2fb758ce6bb8142280e6e04b1e5f9cbe1f08bdfbd79577e1b0225e": {
+      "commander": "OlLga_Uljashova МебельГРУПП",
+      "deadline": "2025/11/07",
+      "spacecraft": "TECH4-PC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "65a4ffa2ac6cb496e673c095e61d3737276b4a4ae8e801d345a7a6cd39d2728c": {
+      "commander": "Irina_SHevkunova МебельГРУПП",
+      "deadline": "2025/11/07",
+      "spacecraft": "WS-001-016",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "e71533bbc5acb74f5b3d886bada57cb9": {
+      "commander": "Mihnevich_OlLga МебельГРУПП",
+      "deadline": "2025/11/07",
+      "spacecraft": "KA-PK-2",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "701dcba8de472fd42f85f70c58e131289a38f4772a2a1832db786ce07c689487": {
+      "commander": "Cibulja_Aleksej МебельГРУПП",
+      "deadline": "2025/11/07",
+      "spacecraft": "TECH6-PC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "8f4a3561741b4fe3a57953eba570acdba6f1dfba0d186ecc0d1d07c86c7522ef": {
+      "commander": "Вильнар МебельГРУПП",
+      "deadline": "2025/02/12",
+      "spacecraft": "DESKTOP-3Q3N090",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "0f824b0ef74c7da672b1975fb3cff8257a4427c07a164890c1257dfef2f4db1a": {
+      "commander": "Brinskih_OlLga МебельГРУПП",
+      "deadline": "2025/02/12",
+      "spacecraft": "TECH-MG3",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "5069394b2fda829c1445c6980266ac5ddee1dfb0adb9a6279569f24e2a4a6acf": {
+      "commander": "Ermachkov_Vdadimir МебельГРУПП",
+      "deadline": "2025/02/12",
+      "spacecraft": "PK-ERMAK",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    }    
+  }
+}
