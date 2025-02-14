@@ -26,6 +26,14 @@
       "infinity": true,
       "journey": true
     },
+    "6b3db1e48d0aff4162b02c29efd69370eabf812e14263c12a34f659267c8c304": {
+      "commander": "Stanilevich_Stanislav",
+      "deadline": "2025/02/12",
+      "spacecraft": "MG-SALON1",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "701dcba8de472fd42f85f70c58e131289a38f4772a2a1832db786ce07c689487": {
       "commander": "Cibulja_Aleksej МебельГРУПП",
       "deadline": "2025/11/07",

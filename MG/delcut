@@ -18,6 +18,14 @@
       "infinity": false,
       "journey": true
     },
+    "6b3db1e48d0aff4162b02c29efd69370eabf812e14263c12a34f659267c8c304": {
+      "commander": "Stanilevich_Stanislav",
+      "deadline": "2025/02/12",
+      "spacecraft": "MG-SALON1",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "e71533bbc5acb74f5b3d886bada57cb9": {
       "commander": "Mihnevich_OlLga МебельГРУПП",
       "deadline": "2025/11/07",
