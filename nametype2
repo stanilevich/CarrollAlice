@@ -50,6 +50,14 @@
       "infinity": true,
       "journey": true
     },
+    "36c73f2d74326276671b11fadb4d1a8e248545c7c7f8b206d963cadf6fe3e685": {
+      "commander": "Андрей Николаевич Сафонов",
+      "deadline": "2025/07/01",
+      "spacecraft": "DESKTOP-AVD4TLO",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "4c0210865cfeb32c64b9e3dac79d6123bddb5ed863b1b4b6d9d62170f3ebb7da": {
       "commander": "Denis_Uzdjakin",
       "deadline": "empty",
