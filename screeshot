@@ -143,10 +143,10 @@
       "infinity": false,
       "journey": true
     },
-    "fe866f4ea9929660f49ca264f6a6430c90280d99fcac98b6faef6d7e1ec64280": {
+    "65683b0c7cefde2ccfe8b0d73751630d": {
       "commander": "Apthar",
       "deadline": "2025/03/21",
-      "spacecraft": "Apthar",
+      "spacecraft": "KON_01",
       "warning": 2,
       "infinity": false,
       "journey": true
