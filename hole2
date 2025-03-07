@@ -506,6 +506,14 @@
       "infinity": false,
       "journey": true
     },
+    "947cc025cc71349b4cf68bdccb139e2978e5750642e3d2e1294af6f4e5bf7d94": {
+      "commander": "Bogdanov_Dmitrij_Aleksandrovich МебельГРУПП",
+      "deadline": "2026/02/13",
+      "spacecraft": "DESKTOP-9O1QM3E",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "c0e1f367c2f08014bddfbb53a7bb0140c298950aded6c201957586a0c0326484": {
       "commander": "Dmitrij",
       "deadline": "2025/02/12",
