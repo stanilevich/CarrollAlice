@@ -158,6 +158,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "3d34c60c1e4ba00c1cd5dee3db231ca6edd9de9b412d80beded0b66157e68857": {
+      "commander": "Степа Беседка",
+      "deadline": "2025/03/21",
+      "spacecraft": "Stive",
+      "warning": 2,
+      "infinity": true,
+      "journey": true
     }
   }
 }
