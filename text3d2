@@ -121,6 +121,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "3d762e0a38013ec0886dc2d32bf07a092765dbadb9b4925caeae3de3f68a3e1d": {
+      "commander": "ja_kromku_schas_nakataju_i_opelь_smoet",
+      "deadline": "2024/06/15",
+      "spacecraft": "DESKTOP-OV4CR8M",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
