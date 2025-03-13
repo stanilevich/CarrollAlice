@@ -521,6 +521,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "0d3b19afdaed753d6cb6a9b362723179": {
+      "commander": "Semjonov_Andrej",
+      "deadline": "empty",
+      "spacecraft": "TECH1",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
