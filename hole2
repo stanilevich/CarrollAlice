@@ -266,6 +266,14 @@
       "infinity": false,
       "journey": true
     },
+    "b55641d0b079e76a9b7b237ee312fa800e8ef985ff54a01337a063e22ef917f8": {
+      "commander": "Володя Бозон Петроплав Озерцо Angelina",
+      "deadline": "2026/03/20",
+      "spacecraft": "DESKTOP-ALRH79G",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "2af0a0dc8025fc39fb6658642a9ade1b3c518f6fe0e8a600ac8d1855c017df60": {
       "commander": "Володя Бозон Петроплав Озерцо Юля",
       "deadline": "2025/09/29",
