@@ -186,7 +186,7 @@
       "infinity": false,
       "journey": true
     },
-    "6c3efa904c834374a19c5df73d7f7262cfb989b212769836749ce1c80864a61": {
+    "6c3efa904c834374a19c5df73d7f7262cfb989b212769836749ce1c80864a61b": {
       "commander": "Володя Бозон Петроплав Минск Озерцо Вероника",
       "deadline": "2025/09/29",
       "spacecraft": "1ERASPIL5",
@@ -242,31 +242,31 @@
       "infinity": false,
       "journey": true
     },
-    "4e3339dcd679ce9486e2e9a44b3c3e7054b63eaf0254435a7b2a5992bfb3ba2": {
-      "commander": "Володя Бозон Петроплав Минск Озерцо Таня",
+    "bd8a0faaa5706aae5381c2a76cc550c3416003086bf16a208658e2843f9f9a84": {
+      "commander": "Володя Бозон Петроплав Минск Озерцо Евгения",
       "deadline": "2025/09/29",
-      "spacecraft": "1ERASPIL7",
+      "spacecraft": "1ERASPIL",
       "warning": 14,
       "infinity": false,
       "journey": true
     },
-    "6d3ea4cfa8d0e685155b5802b1b3f28fe89a6a17972a1693185cc498b3517db": {
-      "commander": "Володя Бозон Петроплав Минск Озерцо",
+    "3f0681616829ae29043b55ca660b77faf916321f4be8ff3db72e1007f8e4899c": {
+      "commander": "Володя Бозон Петроплав Минск Озерцо Марго",
       "deadline": "2025/09/29",
-      "spacecraft": "1ERASPIL6",
+      "spacecraft": "DESKTOP-EM8J3J9",
       "warning": 13,
       "infinity": false,
       "journey": true
     },
-    "5636436d8c4f1de1d7d1ecc827933d4bd13ed75867917ba8b1b0d35693968fa": {
-      "commander": "Володя Бозон Петроплав Озерцо Распил 8",
+    "2af0a0dc8025fc39fb6658642a9ade1b3c518f6fe0e8a600ac8d1855c017df60": {
+      "commander": "Володя Бозон Петроплав Озерцо Юля",
       "deadline": "2025/09/29",
-      "spacecraft": "1ERASPIL8",
+      "spacecraft": "1ERASPIL11",
       "warning": 14,
       "infinity": false,
       "journey": true
     },
-    "93d2d72aa58330c9397931224da211ae6512d00f0fc70f2326596f439d6c5a9": {
+    "93d2d72aa58330c9397931224da211ae6512d00f0fc70f2326596f439d6c5a9e": {
       "commander": "Володя Бозон Петроплав Озерцо Распил 2 Юля",
       "deadline": "2025/09/29",
       "spacecraft": "1ERASPIL2",
