@@ -65,6 +65,22 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "ee0a9bbae0c57acbe2049d7743ef8eeeb9a227be987f556cdcbf13ffca1487e9": {
+      "commander": "JUNCHENKO_ANTON_VASIL,EVICH",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-2CEG2DV",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "ab78734a333f17a7438642bab857bca7796f5ce8fb9986ddbf0a681051ebb772": {
+      "commander": "Creator_inc_",
+      "deadline": "empty",
+      "spacecraft": "MEGATHRON",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
