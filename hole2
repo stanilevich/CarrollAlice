@@ -254,7 +254,15 @@
       "commander": "Володя Бозон Петроплав Минск Озерцо Марго",
       "deadline": "2025/09/29",
       "spacecraft": "DESKTOP-EM8J3J9",
-      "warning": 13,
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "fb46043a1070a5320e81fe3c713b54a90d96a207852d2a413b64975206bf9222": {
+      "commander": "Володя Бозон Петроплав Озерцо Дина",
+      "deadline": "2026/03/20",
+      "spacecraft": "с",
+      "warning": 14,
       "infinity": false,
       "journey": true
     },
