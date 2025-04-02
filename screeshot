@@ -175,6 +175,14 @@
       "infinity": true,
       "journey": true
     },
+    "19841bb96ba42d500f4121f1a42f0e7890c5fcedcf096415df11357eadf04602": {
+      "commander": "Семен Панютин",
+      "deadline": "2026/04/04",
+      "spacecraft": "PANYUTINPC",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
+    },
     "231ba1150aa725d3e8ff7b5892b529ed18eb77140095df766349526847946529": {
       "commander": "Милородов Сергей Анатольевич",
       "deadline": "2027/07/20",
