@@ -356,7 +356,7 @@
     },
     "ff95246013e7b29f40dab4e80d0aa7ac06ca05e61240e81caaf8aeb34af79edc": {
       "commander": "Виктор Кушнарев",
-      "deadline": "2025/04/19",
+      "deadline": "2026/04/22",
       "spacecraft": "ALEXANDR-PC",
       "warning": 5,
       "infinity": false,
@@ -576,6 +576,14 @@
       "spacecraft": "MDKONST",
       "warning": 14,
       "infinity": false,
+      "journey": true
+    },
+    "14b16c99a6b93a8b958cbea22f1a682e6bf512c02ba1ef8eb21b3ade82a64672": {
+      "commander": "Galinoj Venere МебельГРУПП",
+      "deadline": "empty",
+      "spacecraft": "PC-MG-010",
+      "warning": 14,
+      "infinity": true,
       "journey": true
     }
   }
