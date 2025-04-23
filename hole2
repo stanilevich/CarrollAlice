@@ -570,9 +570,17 @@
       "infinity": true,
       "journey": true
     },
+    "a42acfe37eb77541efa09b1432b1dc6bd31ec7fbf2720b96dc679a5c1a96d030": {
+      "commander": "CHistjakov_Aleksandr",
+      "deadline": "empty",
+      "spacecraft": "MDKTEHNOLOG",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "78c0eb4a59403ae8dc261efc648bc6bb": {
       "commander": "CHistjakov_Aleksandr",
-      "deadline": "2026/04/19",
+      "deadline": "2026/04/24",
       "spacecraft": "MDKONST",
       "warning": 14,
       "infinity": false,
