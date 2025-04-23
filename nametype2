@@ -10,6 +10,14 @@
       "infinity": true,
       "journey": true
     },
+    "6b3db1e48d0aff4162b02c29efd69370eabf812e14263c12a34f659267c8c304": {
+      "commander": "Станилевич Станислав",
+      "deadline": "2025/01/15",
+      "spacecraft": "WIN-EC3HMJ8FC7L",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "4d0cc9fa9dab098bf5faa9237c38e8102c1ae5c3e30abe62a8e2105bd467ca8d": {
       "commander": "Victor Möberg",
       "deadline": "2025/01/16",
