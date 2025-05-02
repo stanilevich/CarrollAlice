@@ -190,6 +190,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "f0ee898ec51adeb64c020c36c09fb18f": {
+      "commander": "Maksim_Alifanov",
+      "deadline": "2026/05/03",
+      "spacecraft": "ASUS",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
