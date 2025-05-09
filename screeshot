@@ -198,6 +198,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "f7cc0487b0ab87f2f0c27cec05be63ec58d44d3ebd2c87fbd9c0e8d1abee4299": {
+      "commander": "Dmitriy Ooonski",
+      "deadline": "2025/01/16",
+      "spacecraft": "DIMA-NEW",
+      "warning": 2,
+      "infinity": true,
+      "journey": true
     }
   }
 }
