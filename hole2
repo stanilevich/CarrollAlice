@@ -593,6 +593,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "a531b1d5b4a3934d95a9b9d1bf8d60aae0abf9063112c1eae4f1705eddba2c8f": {
+      "commander": "Dolgushina МебельГРУПП",
+      "deadline": "empty",
+      "spacecraft": "MALUGINA-PC",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
