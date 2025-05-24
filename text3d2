@@ -114,6 +114,14 @@
       "infinity": true,
       "journey": true
     },
+    "623cffcf6ea4778f89778d4756e1670a": {
+      "commander": "Игорь Трегубов",
+      "deadline": "2025/05/24",
+      "spacecraft": "IDFS",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "4d0cc9fa9dab098bf5faa9237c38e8102c1ae5c3e30abe62a8e2105bd467ca8d": {
       "commander": "Moberg_Victor",
       "deadline": "2024/06/15",
