@@ -82,10 +82,10 @@
       "infinity": true,
       "journey": true
     },
-    "": {
+    "f025ded015e57f81eb39a621a17065b9ad825c0303639534894d997955b1de8e": {
       "commander": "Игорь Трегубов",
       "deadline": "empty",
-      "spacecraft": "",
+      "spacecraft": "DESKTOP-78LM6MS",
       "warning": 14,
       "infinity": true,
       "journey": true
@@ -98,10 +98,10 @@
       "infinity": true,
       "journey": true
     },
-    "": {
+    "d119c9084ee077c121dbd4d9498a315baf479c7b5c73741d409ae2bc648c77f3": {
       "commander": "Игорь Трегубов",
       "deadline": "2024/06/15",
-      "spacecraft": "",
+      "spacecraft": "DESKTOP-T52OR9J",
       "warning": 14,
       "infinity": true,
       "journey": true
