@@ -556,9 +556,9 @@
     },
     "97b598f2d01e9c28b1b9c1a9a5db70e0": {
       "commander": "Filipp_KrutLko",
-      "deadline": "2025/06/04",
+      "deadline": "2025/07/05",
       "spacecraft": "KONC3",
-      "warning": 14,
+      "warning": 2,
       "infinity": false,
       "journey": true
     },
