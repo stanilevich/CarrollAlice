@@ -610,14 +610,6 @@
       "infinity": true,
       "journey": true
     },
-    "dfa4c61df224ffb659e1265f8e1768e7": {
-      "commander": "Kovalevskij_Maksim",
-      "deadline": "2026/05/18",
-      "spacecraft": "MWPC",
-      "warning": 14,
-      "infinity": false,
-      "journey": true
-    },
     "0e3ea4a1d8bf689185bb9c4562c327a1": {
       "commander": "Kovalevskij_Maksim",
       "deadline": "2026/05/18",
