@@ -225,6 +225,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "e5e607c72ec3a9a05836296ff83eab8f581fa22a9732b337b18992e437cd6283": {
+      "commander": "SCHerbakov_Aleksej_Sergeevich",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-5L2C16E",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
