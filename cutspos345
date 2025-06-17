@@ -210,14 +210,14 @@
       "infinity": true,
       "journey": true
     },
-    "f7e7199fd44c6597b5c7c9ae4cfe5e1dc225b998575352c36d4d4119727860eb": {
-      "commander": "Kirill_Lunjaka",
-      "deadline": "2025/02/10",
-      "spacecraft": "LAPTOP-NCQ41VQ4",
-      "warning": 14,
-      "infinity": true,
-      "journey": true
-    },
+      "f7e7199fd44c6597b5c7c9ae4cfe5e1dc225b998575352c36d4d4119727860eb": {
+      "commander": "Kirill_Lunjaka",
+      "deadline": "2025/02/10",
+      "spacecraft": "LAPTOP-NCQ41VQ4",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "65d6410c3b85108e81a90631dabbb28844076f0d8958ba56b5b64ab30571e160": {
       "commander": "Панютин Семен",
       "deadline": "2025/02/10",
