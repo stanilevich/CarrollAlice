@@ -233,6 +233,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "5c08ad02d1e7bae0e3e5bf83aaa55fe230207a40fd94dc1b4888dd666fc2484a": {
+      "commander": "Cagaev_Viktor",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-3QNTI3O",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
