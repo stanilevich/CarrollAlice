@@ -538,6 +538,22 @@
       "infinity": false,
       "journey": true
     },
+    "b28ce9506418b1891d281f28098c836d": {
+      "commander": "Rasul_Dalahagiev Константин Седов",
+      "deadline": "2026/06/22",
+      "spacecraft": "MANSURM",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "d1464d9a41cd3856495dfd8f59b6bf5b": {
+      "commander": "Rasul_Dalahagiev Константин Седов",
+      "deadline": "2026/06/22",
+      "spacecraft": "RASULM",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
     "c26c12ea20454385ab92ede199df8dcc": {
       "commander": "Bogdanov_Dmitrij_Aleksandrovich МебельГРУПП",
       "deadline": "2026/02/13",
