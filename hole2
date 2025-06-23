@@ -338,14 +338,6 @@
       "infinity": false,
       "journey": true
     },
-    "2376464826a34d54c8d6680700238670937798cb0f397a489a714fd7b358396c": {
-      "commander": "Олеся Павловна",
-      "deadline": "2026/03/26",
-      "spacecraft": "USER-  ",
-      "warning": 14,
-      "infinity": false,
-      "journey": true
-    },
     "d4d1a60e690655aa531be6f59bc6597eae5c6909dd6f6c0a3ea2ae1f8e9255a8": {
       "commander": "Олеся Павловна",
       "deadline": "2026/03/20",
@@ -467,7 +459,7 @@
       "journey": true
     },
     "98aa28cbf04b147aa47e068bf42a4c93ae5d86afcb504db52c59169a6e1443f9": {
-      "commander": "Olesja_Martinova",
+      "commander": "Олеся Павловна",
       "deadline": "2025/11/07",
       "spacecraft": "DESKTOP-JARQBLE",
       "warning": 14,
@@ -523,9 +515,17 @@
       "journey": true
     },
     "8d2d21783020415fc935798152b63521ffd032595ad35ed2b911a61a214c87bb": {
-      "commander": "Olesja_Martinova",
+      "commander": "Олеся Павловна",
       "deadline": "2026/02/14",
       "spacecraft": "DESKTOP-BHQULJB",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "4992b8c9f01a78557d8a3655675e7a23e5491f444ec0868db1609bc939d9921c": {
+      "commander": "Олеся Павловна",
+      "deadline": "2026/03/28",
+      "spacecraft": "DESKTOP-HR8LSJK",
       "warning": 14,
       "infinity": false,
       "journey": true
