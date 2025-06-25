@@ -89,14 +89,6 @@
       "warning": 14,
       "infinity": true,
       "journey": true
-    },
-    "231ba1150aa725d3e8ff7b5892b529ed18eb77140095df766349526847946529": {
-      "commander": "Сергей Анатольевич",
-      "deadline": "2025/06/09",
-      "spacecraft": "MEGACOMP",
-      "warning": 14,
-      "infinity": true,
-      "journey": true
     }
   }
 }
