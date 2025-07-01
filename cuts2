@@ -17,6 +17,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "6c3efa904c834374a19c5df73d7f7262cfb989b212769836749ce1c80864a61b": {
+      "commander": "Miss_Perkins",
+      "deadline": "empty",
+      "spacecraft": "1ERASPIL5",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
