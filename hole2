@@ -641,6 +641,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "e947a230b492c9bc9d71c68cce07a597": {
+      "commander": "Pavel_Seljukov",
+      "deadline": "2025/08/06",
+      "spacecraft": "762E",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
