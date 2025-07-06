@@ -144,6 +144,14 @@
       "spacecraft": "GEEKOM_MARIIA",
       "warning": 14,
       "infinity": false,
+      "journey": false
+    },
+    "57f82d3c59f878432b698aa312e94633311f24b2ae7c4ea54bf7bb4bcbc717ec": {
+      "commander": "Marija_Levchenko",
+      "deadline": "2026/01/01",
+      "spacecraft": "LAPTOP-G2L4VPNU",
+      "warning": 14,
+      "infinity": false,
       "journey": true
     },
     "e80e79ce49cb8c4bd9b9382c011dda472c3c33d8413f9a188b8635752a8dcf9d": {
