@@ -241,6 +241,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "caa4c48a1d91f3feaa3a951faedc00e3": {
+      "commander": "Вильнар Саликов Мебель ГРупп",
+      "deadline": "empty",
+      "spacecraft": "PC-CECH",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
