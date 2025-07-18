@@ -105,13 +105,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
-    },
-    "": {
+    }
+    ,
+    "654ec6ad7339ab3c53dee53452188018d680aa3ff3c58e2988e3240fe7ad78b7": {
       "commander": "Игорь Трегубов",
       "deadline": "2024/06/15",
-      "spacecraft": "",
+      "spacecraft": "DESKTOP-P721E1N",
       "warning": 14,
-      "infinity": true,
+      "infinity": false,
       "journey": true
     },
     "623cffcf6ea4778f89778d4756e1670a": {
