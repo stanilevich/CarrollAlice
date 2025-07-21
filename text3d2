@@ -112,7 +112,7 @@
       "deadline": "2024/06/15",
       "spacecraft": "DESKTOP-P721E1N",
       "warning": 14,
-      "infinity": false,
+      "infinity": true,
       "journey": true
     },
     "623cffcf6ea4778f89778d4756e1670a": {
