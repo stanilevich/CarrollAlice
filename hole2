@@ -657,6 +657,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "03140132e9b48464c9590e7b1608c142": {
+      "commander": "Aleksandr_Selin",
+      "deadline": "2026/02/01",
+      "spacecraft": "ALEX",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
