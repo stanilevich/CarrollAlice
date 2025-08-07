@@ -665,6 +665,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "4744f6214970d67bbff3adb3b48de8230adfe1955e0cd587d239fca23d94a139": {
+      "commander": "Dmitrij_Panov Мебель групп",
+      "deadline": "empty",
+      "spacecraft": "DEMITRIUS",
+      "warning": 2,
+      "infinity": true,
+      "journey": true
     }
   }
 }
