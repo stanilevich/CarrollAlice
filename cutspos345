@@ -128,6 +128,14 @@
       "spacecraft": "KOMPUTER",
       "warning": 14,
       "infinity": true,
+      "journey": false
+    },
+    "14bacfb268ce5f8350355b06670aebd1877bcd6cd609d94d19c59d1c09269bdb": {
+      "commander": "Zalesov_Kirill",
+      "deadline": "2025/01/16",
+      "spacecraft": "DESKTOP-63DN2JA",
+      "warning": 14,
+      "infinity": true,
       "journey": true
     },
     "4a9f9343d2a3644159b1c79ab260354a": {
