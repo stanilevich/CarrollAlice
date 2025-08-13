@@ -206,6 +206,14 @@
       "warning": 2,
       "infinity": true,
       "journey": true
+    },
+    "82c13d082c7e8b335a9e8f11bc71c0ea40eeccafe195683455e02c7c1f895848": {
+      "commander": "Вадим от Сереги",
+      "deadline": "2025/09/14",
+      "spacecraft": "DIMA-NEW",
+      "warning": 2,
+      "infinity": false,
+      "journey": true
     }
   }
 }
