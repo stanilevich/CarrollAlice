@@ -214,6 +214,14 @@
       "warning": 2,
       "infinity": false,
       "journey": true
+    },
+    "dfa4c61df224ffb659e1265f8e1768e7": {
+      "commander": "Макс Ялта",
+      "deadline": "2025/01/16",
+      "spacecraft": "MWPC",
+      "warning": 1,
+      "infinity": true,
+      "journey": true
     }
   }
 }
