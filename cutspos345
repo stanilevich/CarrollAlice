@@ -257,6 +257,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "778f62d5a1fb70bc92f1691a4e4a1d09e8d7c540050021c2309631fd1b6d89b9": {
+      "commander": "Rabadji_Alexandru",
+      "deadline": "empty",
+      "spacecraft": "ALEX-TOUGH",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
