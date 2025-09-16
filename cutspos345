@@ -273,6 +273,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "38acd534a3355330e47535990a994879d9e45991587d80ca0605abfe8cd90a50": {
+      "commander": "Rostislav_Ganchurin",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-57A6C54",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
