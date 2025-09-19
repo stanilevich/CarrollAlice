@@ -11,9 +11,17 @@
       "journey": true
     },
     "77a68125d08a27170cc312b72ddf9791": {
-      "commander": "Константин",
+      "commander": "Gucalenko_Konstantin",
       "deadline": "2025/01/15",
       "spacecraft": "RENE61",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
+    "cb636e90357d69e32922f874954535afa48bee1b96a93d374e6f9665afdee48c": {
+      "commander": "Gucalenko_Konstantin",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-FEFHMV1",
       "warning": 14,
       "infinity": true,
       "journey": true
