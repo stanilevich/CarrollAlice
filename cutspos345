@@ -289,6 +289,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "2216c565c362cbd08e9800fd58d9b4f2": {
+      "commander": "Maksim_NikolLskij",
+      "deadline": "2026/09/22",
+      "spacecraft": "OSNOV",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
