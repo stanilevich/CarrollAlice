@@ -196,7 +196,7 @@
     },
     "6c3efa904c834374a19c5df73d7f7262cfb989b212769836749ce1c80864a61b": {
       "commander": "Володя Бозон Петроплав Минск Озерцо Вероника",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "1ERASPIL5",
       "warning": 14,
       "infinity": false,
@@ -204,7 +204,7 @@
     },
     "5d554035166534d4fd52a9d40aa9363c044747d21b7f5ba00bb2ddf297f07dfe": {
       "commander": "Володя Бозон",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "DESKTOP-GHP0DMI Петроплав",
       "warning": 14,
       "infinity": false,
@@ -228,7 +228,7 @@
     },
     "f68bf55fae7ed0d29a6e5d7b637ad0cd": {
       "commander": "Черепанов Сергей(Даша)",
-      "deadline": "2025/09/29",
+      "deadline": "unlim",
       "spacecraft": "PC",
       "warning": 14,
       "infinity": true,
@@ -252,7 +252,7 @@
     },
     "bd8a0faaa5706aae5381c2a76cc550c3416003086bf16a208658e2843f9f9a84": {
       "commander": "Володя Бозон Петроплав Минск Озерцо Евгения",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "1ERASPIL",
       "warning": 14,
       "infinity": false,
@@ -260,7 +260,7 @@
     },
     "3f0681616829ae29043b55ca660b77faf916321f4be8ff3db72e1007f8e4899c": {
       "commander": "Володя Бозон Петроплав Минск Озерцо Марго",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "DESKTOP-EM8J3J9",
       "warning": 14,
       "infinity": false,
@@ -284,7 +284,7 @@
     },
     "2af0a0dc8025fc39fb6658642a9ade1b3c518f6fe0e8a600ac8d1855c017df60": {
       "commander": "Володя Бозон Петроплав Озерцо Юля",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "1ERASPIL11",
       "warning": 14,
       "infinity": false,
@@ -292,7 +292,7 @@
     },
     "93d2d72aa58330c9397931224da211ae6512d00f0fc70f2326596f439d6c5a9e": {
       "commander": "Володя Бозон Петроплав Озерцо Распил 2 Юля",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "1ERASPIL2",
       "warning": 14,
       "infinity": false,
@@ -300,7 +300,7 @@
     },
     "f686548f55f155a3f50e16d1051a8824": {
       "commander": "Володя Бозон",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "BREST-1 Петроплав",
       "warning": 14,
       "infinity": false,
@@ -308,7 +308,7 @@
     },
     "98e700083ef36fb93627a2e0ce163a3866cc4df58722c01d535a9e4e34020a5d": {
       "commander": "Володя Бозон Петроплав Солигорск",
-      "deadline": "2025/09/29",
+      "deadline": "2026/09/29",
       "spacecraft": "DESKTOP-LHD17E3",
       "warning": 14,
       "infinity": false,
