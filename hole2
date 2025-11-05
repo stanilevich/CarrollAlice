@@ -332,7 +332,7 @@
     },
     "a0e92358b7dd575495b4e2ae6fae8ffdaefceefce39e7f9c61c75f88c16fe61c": {
       "commander": "Олеся Павловна",
-      "deadline": "2025/11/02",
+      "deadline": "2026/11/10",
       "spacecraft": "LAPTOP-I87SHGVU",
       "warning": 5,
       "infinity": false,
@@ -340,7 +340,7 @@
     },
     "a1598acb1de44790cad8c462c782565f": {
       "commander": "Олеся Павловна",
-      "deadline": "2025/11/02",
+      "deadline": "2026/11/10",
       "spacecraft": "OFFIS",
       "warning": 5,
       "infinity": false,
@@ -468,7 +468,7 @@
     },
     "98aa28cbf04b147aa47e068bf42a4c93ae5d86afcb504db52c59169a6e1443f9": {
       "commander": "Олеся Павловна",
-      "deadline": "2025/11/07",
+      "deadline": "2026/11/10",
       "spacecraft": "DESKTOP-JARQBLE",
       "warning": 14,
       "infinity": false,
