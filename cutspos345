@@ -305,6 +305,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "632cb849dd92c52cb80e23a25636f170": {
+      "commander": "Denis_Taranuschenko",
+      "deadline": "2026/11/15",
+      "spacecraft": "SERV",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
