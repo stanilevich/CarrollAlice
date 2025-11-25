@@ -681,6 +681,14 @@
       "warning": 2,
       "infinity": true,
       "journey": true
+    },
+    "887fb2676a0f9b3d0c71d39e63be0b77": {
+      "commander": "Aleksandr_Rivankov",
+      "deadline": "2026/01/01",
+      "spacecraft": "MAG",
+      "warning": 5,
+      "infinity": false,
+      "journey": true
     }
   }
 }
