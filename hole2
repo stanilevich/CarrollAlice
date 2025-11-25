@@ -684,7 +684,7 @@
     },
     "887fb2676a0f9b3d0c71d39e63be0b77": {
       "commander": "Aleksandr_Rivankov",
-      "deadline": "2026/01/01",
+      "deadline": "2026/02/28",
       "spacecraft": "MAG",
       "warning": 5,
       "infinity": false,
