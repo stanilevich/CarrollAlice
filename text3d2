@@ -26,6 +26,14 @@
       "infinity": true,
       "journey": true
     },
+    "7581b495d7218a0936de3c313954187e": {
+      "commander": "Gucalenko_Konstantin",
+      "deadline": "empty",
+      "spacecraft": "SKALD",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "564c837bcd45875ac16eff3074e9a691923146a2e44c692152a979f77fc23e26": {
       "commander": "Валентин",
       "deadline": "2025/01/16",
