@@ -689,6 +689,14 @@
       "warning": 5,
       "infinity": false,
       "journey": true
+    },
+    "b95c615f35897dce562ce43758d7983b95a5d66e5dc42a26e8b0b1e1a3bdd95d": {
+      "commander": "Dima_B_",
+      "deadline": "в подарок",
+      "spacecraft": "DESKTOP-SUN3WRQ",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
