@@ -697,6 +697,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "ef83a9885edf657cb1f42d2d1d36f38b8c0df41e7d44e521ad9c9c958556fda4": {
+      "commander": "Vodzinskaja_Elena_VasilLevna",
+      "deadline": "2027/01/01",
+      "spacecraft": "DESKTOP-POD79GG",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
