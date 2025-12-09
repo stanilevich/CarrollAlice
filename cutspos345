@@ -313,6 +313,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "15fb863ffd6e76b0b2d5f7941781fed88a2c14f846a7c31b513c9a690a11305f": {
+      "commander": "Denis_Taranuschenko",
+      "deadline": "2026/12/09",
+      "spacecraft": "DESKTOP-H9KG5HQ",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
