@@ -222,6 +222,14 @@
       "warning": 1,
       "infinity": true,
       "journey": true
+    },
+    "5b77a50c1218bc7dd7e113bac98d082bb96315c335105496b12fc74503a1b010": {
+      "commander": "Mariia Levchenko",
+      "deadline": "2027/01/01",
+      "spacecraft": "GEEKOM_MARIIA",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
