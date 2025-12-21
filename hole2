@@ -10,6 +10,14 @@
       "infinity": true,
       "journey": true
     },
+    "e7deb815d4018ff076b09a951b85f2413bad104691fc8eaf302aed32dad65db8": {
+      "commander": "1111222",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-TGO7NKJ",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
+    },
     "9136bac8d24e99907ba9ea345fb47db26be8498db967fbc08050d49472b912f5": {
       "commander": "Дмитрий(Рюмочная)",
       "deadline": "2026/01/01",
