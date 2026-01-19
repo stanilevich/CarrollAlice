@@ -721,6 +721,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "af609d64781c450cddc443d9cd989f29852d2e0e0fa3f836d4d1e9f8e4b7378e": {
+      "commander": "Bobuh_Aleksandr Alex",
+      "deadline": "2027/01/20",
+      "spacecraft": "ALEXMAN-PC",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
