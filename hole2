@@ -713,6 +713,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "1bf5f745deea53020a861b5264683b324f4a85fe7806f1c16018eb1e10fe03c8": {
+      "commander": "Францкевич Максим игоревич",
+      "deadline": "2027/01/20",
+      "spacecraft": "DESKTOP-1S0MHNI",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
