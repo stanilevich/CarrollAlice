@@ -9,6 +9,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "e7deb815d4018ff076b09a951b85f2413bad104691fc8eaf302aed32dad65db8": {
+      "commander": "Stanilevich",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-TGO7NKJ",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
