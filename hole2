@@ -31,7 +31,7 @@
       "deadline": "2027/01/01",
       "spacecraft": "WIN-L7MLH0EE1AT",
       "warning": 14,
-      "infinity": false,
+      "infinity": true,
       "journey": true
     },
     "36c73f2d74326276671b11fadb4d1a8e248545c7c7f8b206d963cadf6fe3e685": {
