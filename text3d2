@@ -170,6 +170,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "f66690e57b2f4d53c29c121ae89e2c5fa591bbabec76e8f18ccdf18ca8c75301": {
+      "commander": "IgorL_Tregubov",
+      "deadline": "empty",
+      "spacecraft": "DESKTOP-KV86IEU",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
