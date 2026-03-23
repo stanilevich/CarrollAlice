@@ -728,7 +728,7 @@
       "spacecraft": "ALEXMAN-PC",
       "warning": 14,
       "infinity": false,
-      "journey": false
+      "journey": true
     },
     "5a00b9093ab87616d8f71d77c4fc68cd7d2bff7e4f572f5f62c32c39d3a18dc3": {
       "commander": "Gribenko_IlLja Alex",
@@ -736,7 +736,7 @@
       "spacecraft": "SYNTECCNC",
       "warning": 14,
       "infinity": false,
-      "journey": true
+      "journey": false
     }
   }
 }
