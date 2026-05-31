@@ -737,6 +737,14 @@
       "warning": 14,
       "infinity": false,
       "journey": false
+    },
+    "6aae30f284a7f5c350cd0ca776f8c13d4914882512f224b0b9d5aed616a02b2a": {
+      "commander": "Frolov_Evgenij_VERTEX",
+      "deadline": "empty",
+      "spacecraft": "VERTNOTEBOOK",
+      "warning": 14,
+      "infinity": true,
+      "journey": true
     }
   }
 }
