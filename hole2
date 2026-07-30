@@ -211,9 +211,9 @@
       "journey": true
     },
     "5d554035166534d4fd52a9d40aa9363c044747d21b7f5ba00bb2ddf297f07dfe": {
-      "commander": "Володя Бозон",
+      "commander": "Володя Бозон Петроплав",
       "deadline": "2026/10/02",
-      "spacecraft": "DESKTOP-GHP0DMI Петроплав",
+      "spacecraft": "DESKTOP-GHP0DMI",
       "warning": 14,
       "infinity": false,
       "journey": true
@@ -354,7 +354,7 @@
       "infinity": false,
       "journey": true
     },
-    "a1598acb1de44790cad8c462c782565f": {
+    "6e8bbaa85c384908ec790f068754a604": {
       "commander": "Мартынова Олеся Павловна",
       "deadline": "2027/03/28",
       "spacecraft": "OFFIS",
