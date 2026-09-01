@@ -753,6 +753,14 @@
       "warning": 14,
       "infinity": true,
       "journey": true
+    },
+    "3d34c60c1e4ba00c1cd5dee3db231ca6edd9de9b412d80beded0b66157e68857": {
+      "commander": "Stive",
+      "deadline": "2027/09/02",
+      "spacecraft": "STIVE-PC",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
