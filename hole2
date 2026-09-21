@@ -761,6 +761,14 @@
       "warning": 14,
       "infinity": false,
       "journey": true
+    },
+    "e5bc6a52aac492087caabf9f179b8f4887b2828e265b6f1a992bcea5735d082f": {
+      "commander": "L0fD__Favorit_Work_",
+      "deadline": "2027/09/22",
+      "spacecraft": "VAL-TECH",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
     }
   }
 }
