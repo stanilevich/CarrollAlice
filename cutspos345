@@ -66,14 +66,6 @@
       "infinity": true,
       "journey": false
     },
-    "1a8e6c936f284b1bcfd0a2d00f7e189f8ec9cc7340052be3eac7420baa22c49b": {
-      "commander": "Олег Карпухин",
-      "deadline": "2025/01/16",
-      "spacecraft": "WIN-L6PNV4LUQKJ",
-      "warning": 14,
-      "infinity": true,
-      "journey": true
-    },
     "19841bb96ba42d500f4121f1a42f0e7890c5fcedcf096415df11357eadf04602": {
       "commander": "Семен Панютин",
       "deadline": "2025/01/16",
@@ -326,6 +318,14 @@
       "commander": "Anna_Semenova1",
       "deadline": "2026/10/26",
       "spacecraft": "DESKTOP-L3PJP7N",
+      "warning": 14,
+      "infinity": false,
+      "journey": true
+    },
+    "df8bedf1ad784e57004f4491cbd1506c81a1845653ce08652fbf4e3decc598c1": {
+      "commander": "Oleg_Karpuhin",
+      "deadline": "2026/10/26",
+      "spacecraft": "WIN-2143856V9O8",
       "warning": 14,
       "infinity": false,
       "journey": true
